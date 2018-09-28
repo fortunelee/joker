@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fortunelee.github.io/"/>
-  <updated>2018-09-27T10:16:01.754Z</updated>
+  <updated>2018-09-28T02:07:45.130Z</updated>
   <id>https://fortunelee.github.io/</id>
   
   <author>
@@ -21,12 +21,20 @@
     <link href="https://fortunelee.github.io/2018/09/27/test/"/>
     <id>https://fortunelee.github.io/2018/09/27/test/</id>
     <published>2018-09-27T10:16:01.000Z</published>
-    <updated>2018-09-27T10:16:01.754Z</updated>
+    <updated>2018-09-28T02:07:45.130Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="cate" scheme="https://fortunelee.github.io/categories/cate/"/>
+    
+    
+      <category term="Tag1" scheme="https://fortunelee.github.io/tags/Tag1/"/>
+    
+      <category term="Tag2" scheme="https://fortunelee.github.io/tags/Tag2/"/>
+    
+      <category term="Tag3" scheme="https://fortunelee.github.io/tags/Tag3/"/>
     
   </entry>
   

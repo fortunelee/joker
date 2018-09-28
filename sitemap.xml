@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fortunelee.github.io/2018/09/27/test/</loc>
+    
+    <lastmod>2018-09-28T02:07:45.130Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://fortunelee.github.io/categories/index.html</loc>
     
     <lastmod>2018-09-27T10:33:09.144Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://fortunelee.github.io/tags/index.html</loc>
     
     <lastmod>2018-09-27T10:20:50.190Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://fortunelee.github.io/2018/09/27/test/</loc>
-    
-    <lastmod>2018-09-27T10:16:01.754Z</lastmod>
     
   </url>
   
